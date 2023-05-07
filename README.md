@@ -1,4 +1,4 @@
-# Job-Portal by Gunesh Shanbhag
+# Job-Portal by Atul Sharma 
 
 Made with Core PHP and Bootstrap CSS Framework. 🤍
 
@@ -9,7 +9,7 @@ Made with Core PHP and Bootstrap CSS Framework. 🤍
 Clone the project
 
 ```bash
-  git clone https://github.com/gshanbhag525/Job-Portal.git
+  git clone https://github.com/atul8727/Job-Portal.git
 ```
 
 import the git_repos_jobportal.sql in the xampp mysql database.
